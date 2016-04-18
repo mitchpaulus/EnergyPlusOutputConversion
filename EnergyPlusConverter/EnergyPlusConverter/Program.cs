@@ -122,8 +122,10 @@ namespace EnergyPlusConverter
 
             excelFile.SaveAs(newFile);
 
+            Console.WriteLine("Successfully converted {0} to {1}.", fileInfo.Name, newFile.Name);
+            Console.WriteLine("Press any key to exit...");
+            Console.ReadLine();
             return;
-
         }
     }
 }
