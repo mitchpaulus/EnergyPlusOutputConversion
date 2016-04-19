@@ -13,3 +13,9 @@ It then
 4. Converts any "Temperature" columns to F, and formats with 1 decimal place.
 5. Adjusts the width of all the columns. 
 6. Saves the file with -convert.xlsx as the new ending in the same folder the original file was in.
+
+## How can I use it?
+
+After you download the zip file, you can run the program directly without installing any program to your computer by running the executable in \EnergyPlusConverter\EnergyPlusConverter\bin\Debug\EnergyPlusConverter.exe. 
+
+The other option is to run the setup.exe file, located at \EnergyPlusConverter\EnergyPlusConverter\publish\setup.exe, which will then install the program on your computer along with a shortcut. 
