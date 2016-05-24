@@ -19,3 +19,7 @@ It then
 After you download the zip file, you can run the program directly without installing any program to your computer by running the executable in \EnergyPlusConverter\EnergyPlusConverter\bin\Debug\EnergyPlusConverter.exe. 
 
 The other option is to run the setup.exe file, located at \EnergyPlusConverter\EnergyPlusConverter\publish\setup.exe, which will then install the program on your computer along with a shortcut. 
+
+## Let's make this better!
+
+Adding additional features is quite straightforward for this project, so please let me know of other important unit conversions, formatting, etc. that you would like to see! 
